@@ -1,0 +1,40 @@
+
+doubles3.png
+size: 1002,1002
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+board
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+doubles32.png
+size: 195,254
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+four
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+o
+  rotate: false
+  xy: 2, 68
+  size: 193, 186
+  orig: 193, 186
+  offset: 0, 0
+  index: -1
+two
+  rotate: false
+  xy: 68, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

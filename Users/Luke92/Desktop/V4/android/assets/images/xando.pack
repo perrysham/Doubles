@@ -1,0 +1,20 @@
+
+xando.png
+size: 514,580
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+board
+  rotate: false
+  xy: 2, 68
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+two
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
